@@ -1,7 +1,7 @@
 
 
 
-suma = 20 + 30
+suma = 20 + 50
 print("El resultado de la suma es:", suma)
 resta = 50-10
 print("El resultado de la resta es:", resta)
