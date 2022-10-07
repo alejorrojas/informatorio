@@ -72,4 +72,12 @@ print(type(diccionario))
 
 x = None
 print(type(x))
+z = ["hola"]
 
+x = {"saludo": "hola",
+}
+print(x["saludo"])
+edad = 25
+edad = int(edad) + 10
+print (edad)
+edad = str(edad)
